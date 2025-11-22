@@ -1,0 +1,252 @@
+{
+  "kufurEngeliAcik": false,
+  "linkEngeliAcik": false,
+  "engellenenKufurKanallari": [
+    "1413868462249607311",
+    "1429183042345373947",
+    "1425177409006862359"
+  ],
+  "engellenenLinkKanallari": [
+    "1413904991093133383",
+    "1425177409006862359",
+    "1436654503616053279"
+  ],
+  "engellenenKufurRolleri": [
+    "1413569037501206769",
+    "1238594650860687436",
+    "1425872089184735387"
+  ],
+  "engellenenLinkRolleri": [
+    "1413569037501206769",
+    "1425177408222396594"
+  ],
+  "ticketData": {
+    "roles": {
+      "sunucu": [
+        "<@&1408848971476107496> <@&1238594650617548869>"
+      ],
+      "oyun": [
+        "<@&1338794377006415882> <@&1238594650835521664> <@&1238594650617548869>"
+      ],
+      "gamepass": [
+        "<@&1238594650617548869>"
+      ]
+    },
+    "kayitKanalId": "1413642835982422097",
+    "destekKategoriId": "1238594651393626281",
+    "supportRoles": {
+      "server": [
+        "<@&1408848971476107496> <@&1238594650617548869>"
+      ],
+      "game": [
+        "<@&1338794377006415882> <@&1238594650835521664>"
+      ],
+      "gamepass": [
+        "<@&1238594650617548869>"
+      ]
+    },
+    "logChannel": "1413642835982422097",
+    "category": "1238594651393626281"
+  },
+  "userCooldowns": {},
+  "kelimeOyunları": {
+    "1413909326728532029": {
+      "sonKelime": "etek"
+    },
+    "1413911583901618407": {
+      "sonKelime": "nafile"
+    },
+    "1413913436093415609": {
+      "sonKelime": "ırmak",
+      "sonKullanici": "857954511364161557"
+    },
+    "1413915520675352647": {
+      "sonKelime": "ray",
+      "sonKullanici": "857954511364161557"
+    },
+    "1413927963577155648": {
+      "sonKelime": "tatil",
+      "sonKullanici": "857954511364161557"
+    },
+    "1413930349720899634": {
+      "sonKelime": "ılık",
+      "sonKullanici": "857954511364161557"
+    },
+    "1414324521837527151": {
+      "sonKelime": "lale",
+      "sonKullaniciId": "857954511364161557",
+      "oyunDurumu": "aktif"
+    },
+    "1414326244497166478": {
+      "lastWord": "bilgisayar",
+      "lastPlayer": null
+    },
+    "1414327345887838440": {
+      "currentWord": "kara",
+      "lastPlayer": "909830852798713877",
+      "active": true
+    },
+    "1414342945745928377": {
+      "currentWord": "saray",
+      "lastPlayer": "1080165226395209788",
+      "active": true
+    },
+    "1422286888483684404": {
+      "lastWord": "armut",
+      "lastPlayer": "1418953245904076895",
+      "players": {},
+      "wordsUsed": [
+        "elma",
+        "armut"
+      ]
+    },
+    "1238594654014935075": {
+      "lastWord": "kapı",
+      "lastPlayer": null,
+      "wordsUsed": []
+    }
+  },
+  "boomOyunları": {
+    "1413909726416080926": {
+      "sıra": 2
+    },
+    "1413915590749458576": {
+      "sıra": 2
+    }
+  },
+  "sicilSistemi": {
+    "logsChannelId": "1432834797654245378",
+    "records": {
+      "yunm": [],
+      "yunm1232": [],
+      "s": [
+        {
+          "ceza": "d",
+          "sure": "d",
+          "sebep": "d",
+          "moderator": "devleti_osmaniye",
+          "date": "07.09.2025 08:42:47"
+        }
+      ],
+      "arda5ei": [
+        {
+          "ceza": "rd",
+          "sure": "yok",
+          "sebep": "aktif değil",
+          "moderator": "yunm0738",
+          "date": "07.09.2025 08:54:58"
+        }
+      ],
+      "adnzyen7": [
+        {
+          "ceza": "2000GJ",
+          "sure": "3 Gün",
+          "sebep": "YKB ye saygısızlık",
+          "moderator": "ozan1905yusuf",
+          "date": "07.09.2025 11:54:11"
+        }
+      ],
+      "babaprosaplar_4": [
+        {
+          "ceza": "ÖKK BL",
+          "sure": "yok",
+          "sebep": "Saygısızlık",
+          "moderator": "devleti_osmaniye",
+          "date": "07.09.2025 12:07:15"
+        },
+        {
+          "ceza": "150 GJ",
+          "süre": "3 gün",
+          "sebep": "gramersizlik + izinsiz bring",
+          "moderator": "devleti_osmaniye",
+          "timestamp": "2025-09-20T12:51:17.091Z"
+        }
+      ],
+      "umutist3": [
+        {
+          "ceza": "1 gün ban, ardından açılması.",
+          "sure": "1 gün ban yemişti.",
+          "sebep": "YK'ya saygısızlık, gramersizlik.",
+          "moderator": "devleti_osmaniye",
+          "date": "07.09.2025 12:21:22"
+        }
+      ],
+      "ayaz_eceberfn": [
+        {
+          "ceza": "150 GJ",
+          "süre": "3 gün",
+          "sebep": "İzinsiz base girişi",
+          "moderator": "devleti_osmaniye",
+          "timestamp": "2025-09-23T17:59:24.941Z"
+        },
+        {
+          "ceza": "OR-9/A çekiş",
+          "süre": "yok",
+          "sebep": "Kendisi istedi",
+          "moderator": "devleti_osmaniye",
+          "timestamp": "2025-09-23T18:26:58.855Z"
+        }
+      ],
+      "arasdeniz122": [
+        {
+          "ceza": "400 GJ",
+          "süre": "şimdi çekiyormuş",
+          "sebep": "AS.İZ. cezası. (n trolü, izinsiz base girmek)",
+          "moderator": "devleti_osmaniye",
+          "timestamp": "2025-09-25T15:43:36.029Z"
+        },
+        {
+          "ceza": "OR-1 rd",
+          "süre": "yok",
+          "sebep": "Ceza çekerken AFK kalmak. sürekli n atmak",
+          "moderator": "devleti_osmaniye",
+          "timestamp": "2025-09-25T15:46:14.459Z"
+        }
+      ],
+      "Realrewnzsn": [
+        {
+          "ceza": ".",
+          "sure": ".",
+          "sebep": "deneme",
+          "timestamp": "2025-10-12T14:29:07.486Z",
+          "moderator": "devleti_osmaniye"
+        }
+      ],
+      "mehmet62540": [
+        {
+          "ceza": "1000 gj",
+          "sure": "3 gün",
+          "sebep": "Mareşal emri",
+          "timestamp": "2025-10-12T16:59:49.691Z",
+          "moderator": "yunm12322"
+        }
+      ],
+      "yusuf467889": [
+        {
+          "ceza": "1000 gj",
+          "sure": "3 gün",
+          "sebep": "mareşal emri",
+          "timestamp": "2025-10-12T17:01:08.908Z",
+          "moderator": "yunm12322"
+        }
+      ],
+      "ErenW_X0": [
+        {
+          "ceza": "yok",
+          "sure": "sds",
+          "sebep": "deneme",
+          "timestamp": "2025-11-02T15:46:06.612Z",
+          "moderator": "devleti_osmaniye"
+        }
+      ]
+    }
+  },
+  "userTickets": {},
+  "botKoruma": {
+    "verifiedBots": [
+      "1177540684530602014"
+    ],
+    "enabled": true,
+    "notificationUserId": "857954511364161557"
+  }
+}
