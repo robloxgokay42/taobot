@@ -1,0 +1,16 @@
+{
+  "name": "discord-moderasyon-botu",
+  "version": "1.0.0",
+  "description": "Discord moderasyon botu projesi",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "express": "^5.1.0"
+  }
+}
